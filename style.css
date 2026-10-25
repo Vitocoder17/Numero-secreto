@@ -13,6 +13,11 @@ body {
     justify-content: center;
 }
 
+p {
+    font-size: 24px;
+    font-weight: 400;
+}
+
 
 body::before {
     background-image: url("img/code.png");
